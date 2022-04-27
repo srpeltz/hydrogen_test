@@ -1,6 +1,8 @@
 # THIS IS A STUB FOR NEW HYDROGEN APPS
 # THIS WILL EVENTUALLY MOVE TO A /TEMPLATE-* FOLDER
 
+shopify.config.js
+
 # Logs
 logs
 *.log
