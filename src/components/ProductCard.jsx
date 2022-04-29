@@ -4,7 +4,7 @@ import {
   ProductProvider,
   ProductTitle,
   Link,
-  Image,
+  //Image,
   // Hydrogen provides a special `@shopify/hydrogen/client` module to reference
   // components that are safe to use within client components. You should use
   // this import path when writing your client components.
